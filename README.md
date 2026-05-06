@@ -6,7 +6,7 @@ A modern productivity web application that helps users **build habits, manage ta
 
 ## Project Overview
 
-This application allows users to:
+This application allows users to: 
 
 - Track daily habits
 - Manage personal tasks
